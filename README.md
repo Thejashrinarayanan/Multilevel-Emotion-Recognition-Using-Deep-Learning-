@@ -3,7 +3,7 @@
 # 🧠 EEG Emotion Recognition Using Machine Learning
 ````
 ````
----
+
 
 ## 📘 Overview
 This project predicts human emotions from EEG (Electroencephalogram) brainwave signals using **Deep Learning**.  
@@ -168,7 +168,3 @@ Sathyabama Institute of Science and Technology
 > *"Decoding emotions — one brainwave at a time."*
 
 ```
-
----
-```
-
