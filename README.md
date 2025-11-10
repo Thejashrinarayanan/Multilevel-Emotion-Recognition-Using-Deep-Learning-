@@ -163,4 +163,3 @@ Sathyabama Institute of Science and Technology
 
 > *"Decoding emotions — one brainwave at a time."*
 
-```
