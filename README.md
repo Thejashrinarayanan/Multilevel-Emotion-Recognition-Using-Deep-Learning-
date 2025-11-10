@@ -1,9 +1,7 @@
-Here’s an **enhanced, polished version** of your README with proper formatting, badges, and clearer sections for GitHub. I’ve added headings, code blocks, badges, and a more professional structure:
 
----
 
-```markdown
 # 🧠 EEG Emotion Recognition Using Machine Learning
+````
 ````
 ---
 
@@ -64,11 +62,11 @@ EEG_Emotion_Recognition/
 ## ⚙️ Installation
 
 ### Step 1: Clone the Repository
-
+````
 git clone https://github.com/your-username/EEG_Emotion_Recognition.git
 cd EEG_Emotion_Recognition
 ````
-````
+
 
 ### Step 2: Create a Virtual Environment
 
