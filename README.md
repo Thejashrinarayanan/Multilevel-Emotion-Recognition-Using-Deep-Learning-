@@ -5,10 +5,6 @@ Here’s an **enhanced, polished version** of your README with proper formatting
 ```markdown
 # 🧠 EEG Emotion Recognition Using Machine Learning
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.1.1-orange.svg)](https://flask.palletsprojects.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20.0-red.svg)](https://www.tensorflow.org/)
-
 ---
 
 ## 📘 Overview
@@ -64,13 +60,14 @@ EEG_Emotion_Recognition/
 ````
 
 ---
-
+````
 ## ⚙️ Installation
 
 ### Step 1: Clone the Repository
-```bash
+
 git clone https://github.com/your-username/EEG_Emotion_Recognition.git
 cd EEG_Emotion_Recognition
+````
 ````
 
 ### Step 2: Create a Virtual Environment
